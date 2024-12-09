@@ -1,0 +1,36 @@
+body{
+	background-image: url(https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+	font-family: "Abel", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.navbar-brand img {
+    height: 40px;
+    width: auto;  
+    object-fit: contain;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
+.container {
+	background-color: black;
+	padding: 15px;
+	border-radius: 20px;
+}
+.container mt-3 {
+	background-color: black;
+	padding: 15px;
+	border-radius: 20px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:  black;
+  color: white;
+  text-align: center;
+  padding-top: 5px;
+}
